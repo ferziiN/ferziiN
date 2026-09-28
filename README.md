@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,javascript,java,python,git,github&theme=dark&perline=9" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,javascript,git,github&theme=dark&perline=9" alt="Tech Stack" />
 
 </div>
 
