@@ -10,7 +10,7 @@
 
 - 🔭 &nbsp;Currently working with customer support focused on databases and dynamic reports at **Sync Softwares**.
 - 🎓 &nbsp;Computer Science student. **8/8**
-- 💻 &nbsp;Skills: **C#, SQL, RDLC, DevExpress, ASP.NET Framework, ERP Systems**
+- 💻 &nbsp;Skills: **C#, SQL, RDLC, DevExpress (RPEX), ASP.NET Framework, ERP Systems**
 - 🇧🇷 &nbsp;Brazilian developer passionate about technology and continuous learning.
 
 
